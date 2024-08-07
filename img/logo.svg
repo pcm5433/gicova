@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190.46 63.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f24d00;
+      }
+
+      .cls-2 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-3 {
+        font-family: BlackOpsOne-Regular, 'Black Ops One';
+        font-size: 55px;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 45.32)"><tspan class="cls-1" x="0" y="0">G</tspan><tspan x="40.15" y="0">CO</tspan><tspan class="cls-2" x="118.11" y="0">V</tspan><tspan x="150.18" y="0">A</tspan></text>
+</svg>
